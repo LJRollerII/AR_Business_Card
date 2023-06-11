@@ -6,6 +6,31 @@ __pycache__/
 # C extensions
 *.so
 
+Library/
+library/
+
+Logs/
+logs/
+
+Packages/
+packages/
+
+QCAR/
+qcar/
+
+ProjectSettings/
+
+UserSettings/
+
+LR.png/
+LR.png.meta/
+
+BCard.png/
+BCard.png.meta/
+
+Vuforia/
+vuforia/
+
 # Distribution / packaging
 .Python
 build/
